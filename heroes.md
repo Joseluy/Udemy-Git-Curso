@@ -7,4 +7,4 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
-* Chapulín Colorado
+* Atóm
